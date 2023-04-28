@@ -1,2 +1,2 @@
-# smartcampus
+# Smart Campus
 Projetos para SmartCampus
